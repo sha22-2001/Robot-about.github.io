@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.back
+{
+    position: absolute;
+    width: 100%;
+    top: 0;
+}
+.main
+{
+    position: absolute;
+    width: 80%;
+    left: 20vh;
+    top: 20vh;
+}
+.next
+{
+    position: absolute;
+    width: 5%;
+    top: 3vh;
+    left: 5vh;
+}
